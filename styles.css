@@ -1,10 +1,10 @@
 :root{
-    --neutral:#232946;
+    --neutral:#1f1235;
     --base-100:#fffffe;
     --neutral-focus:#121629;
     --primary:#eebbc3;
-    --secondary:#b8c1ec;
-    --acccent:#d4d8f0;
+    --secondary:#67568c;
+    --acccent:#fbdd74;
 }
 
 *{
