@@ -64,9 +64,21 @@ section{
     display: flex;
     flex-direction: column;
 }
+.welcome-me{
+    padding-top: 20vh;
+    display:flex;
+    flex-direction:row-row;
+    align-items:center;
+}
 
-#welcome-section h1{
-    margin-top:30vh;
+#welcome-section .welcome-me {
+    justify-content: center;
+}
+
+.personal-photo{
+    height: 70px;
+    width: auto;
+    margin-right: 10px;
 }
 
 #welcome-section p{
